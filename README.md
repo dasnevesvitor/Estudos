@@ -1,11 +1,11 @@
 # Estudos
 Repositório criado para estudo, vai ser divido por pastas de cursos e bootcamps.
 
-##Bootcamps
+## Bootcamps
 - Decola Tech
 
 
 
 
 
-##Cursos
+## Cursos
