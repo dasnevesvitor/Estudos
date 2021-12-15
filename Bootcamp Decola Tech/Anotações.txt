@@ -1,0 +1,1 @@
+Tive meu primeiro contato com Git e GitHub, aprendendo manipular o terminal do git e criar repositórios no GitHub.
